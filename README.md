@@ -1,6 +1,6 @@
 # Container Docker Laravel 13.X + MySQL & PHP 8.5!
 
-Este repositório fornece um ambiente Docker configurado para desenvolvimento com **Laravel 11**, **MySQL**, e **PHP 8.5**. A configuração foi projetada para simplificar o setup e oferecer uma base sólida para projetos modernos em Laravel.
+Este repositório fornece um ambiente Docker configurado para desenvolvimento com **Laravel 13**, **MySQL**, e **PHP 8.5**. A configuração foi projetada para simplificar o setup e oferecer uma base sólida para projetos modernos em Laravel.
 
 
 # Recursos
